@@ -1,104 +1,88 @@
-# \# 🛩️ Animated Journey of a Fighter Jet
+<small>\*\*🛩️ Animated Journey of a Fighter Jet\*\*</small>
 
-# 
 
-# A computer graphics animation project built using \*\*C/C++\*\* and \*\*OpenGL (GLUT)\*\*. This project demonstrates core computer graphics concepts—including object drawing, translation, and scene transitions—through the animated flight of a fighter jet across multiple environments.
 
-# 
+<small>A computer graphics animation project built using \*\*C/C++\*\* and \*\*OpenGL (GLUT)\*\*. This project demonstrates core computer graphics concepts—including object drawing, translation, and scene transitions—through the animated flight of a fighter jet across multiple environments.</small>
 
-# > \*\*Academic Context:\*\* Developed as a project for the Computer Graphics course at \*\*American International University-Bangladesh (AIUB)\*\*, under the guidance of \*\*Noboranjan Dey\*\* (Lecturer, AIUB).
 
-# 
 
-# \## 👥 Team Members
+<small>\*\*🎓 Academic Context\*\*</small>
 
-# \* \*\*Md. Jakaria Naim\*\* \*(Me) — Developed the Rural Landscape / Village Scene\*
+<small>Developed as a project for the Computer Graphics course at \*\*American International University-Bangladesh (AIUB)\*\*, under the guidance of \*\*Noboranjan Dey\*\*, Lecturer, AIUB.</small>
 
-# \* Tofayel Hossain
 
-# \* Tanvir Hosen Nishat
 
-# \* Md. Abdul Malek Sobuj
+<small>\*\*👥 Team Members\*\*</small>
 
-# 
+\- <small>\*\*Md. Jakaria Naim\*\* \*(Me) — Developed the Rural Landscape / Village Scene\*</small>
 
-# \## 🚀 Project Overview
+\- <small>Tofayel Hossain</small>
 
-# 
+\- <small>Tanvir Hosen Nishat</small>
 
-# The animation follows a sequential storyline, taking the viewer through three distinct scenes:
+\- <small>Md. Abdul Malek Sobuj</small>
 
-# 1\. \*\*The Takeoff:\*\* A fighter jet departs from its home airbase and ascends into the sky.
 
-# 2\. \*\*Cityscape (AIUB Campus):\*\* The jet flies over a detailed urban environment, featuring the AIUB campus.
 
-# 3\. \*\*Rural Landscape:\*\* The scene transitions to a peaceful village, contrasting the urban flight path. \*(Scene entirely designed and developed by Md. Jakaria Naim)\*
+<small>\*\*🚀 Project Overview\*\*</small>
 
-# 
+<small>The animation follows a sequential storyline, taking the viewer through three distinct scenes:</small>
 
-# \*\*Target Audience:\*\* Students, educators, or anyone interested in learning practical implementations of computer graphics in C/C++.
+<small>\*\*1. The Takeoff:\*\* A fighter jet departs from its home airbase and ascends into the sky.</small>
 
-# 
+<small>\*\*2. Cityscape (AIUB Campus):\*\* The jet flies over a detailed urban environment, featuring the AIUB campus.</small>
 
-# \## 🛠️ Technology Stack
+<small>\*\*3. Rural Landscape:\*\* The scene transitions to a peaceful village, contrasting the urban flight path. \*(Scene entirely designed and developed by Md. Jakaria Naim)\*</small>
 
-# \* \*\*Language:\*\* C / C++
 
-# \* \*\*Graphics API:\*\* OpenGL
 
-# \* \*\*Toolkit:\*\* GLUT (OpenGL Utility Toolkit)
+<small>\*\*Target Audience:\*\* Students, educators, or anyone interested in learning practical implementations of computer graphics in C/C++.</small>
 
-# 
 
-# \## 🔮 Future Enhancements
 
-# \* Integration of background audio and sound effects.
+<small>\*\*🛠️ Technology Stack\*\*</small>
 
-# \* Addition of interactive user controls (keyboard/mouse inputs).
+\- <small>\*\*Language:\*\* C / C++</small>
 
-# \* More intricate environmental details and dynamic weather effects.
+\- <small>\*\*Graphics API:\*\* OpenGL</small>
 
-# 
+\- <small>\*\*Toolkit:\*\* GLUT (OpenGL Utility Toolkit)</small>
 
-# \---
 
-# 
 
-# \## 📸 Project Previews
+<small>\*\*🔮 Future Enhancements\*\*</small>
 
-# 
+\- <small>Integration of background audio and sound effects.</small>
 
-# \### 🛫 Airport Base Design
+\- <small>Addition of interactive user controls (keyboard/mouse inputs).</small>
 
-# <p align="left">
+\- <small>More intricate environmental details and dynamic weather effects.</small>
 
-# &#x20; <img src="https://github.com/shuvokaisar52/cg\_project/blob/332dd6eec36cee50dc0f5a2a3173bbf434429267/assets/image%20(5).png" alt="Airport 1" width="400" />
 
-# &#x20; <img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image.png" alt="Airport 2" width="400" />
 
-# </p>
+<small>\*\*📸 Project Previews\*\*</small>
 
-# 
 
-# \### 🏢 AIUB Campus (City Scene)
 
-# <p align="left">
+<small>\*\*🛫 Airport Base Design\*\*</small>
 
-# &#x20; <img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(1).png" alt="Campus 1" width="400" />
+<img src="https://github.com/shuvokaisar52/cg\_project/blob/332dd6eec36cee50dc0f5a2a3173bbf434429267/assets/image%20(5).png" alt="Airport 1" width="400" />
 
-# &#x20; <img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(2).png" alt="Campus 2" width="400" />
+<img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image.png" alt="Airport 2" width="400" />
 
-# </p>
 
-# 
 
-# \### 🏡 Village Scene \*(Developed by Md. Jakaria Naim)\*
+<small>\*\*🏢 AIUB Campus (City Scene)\*\*</small>
 
-# <p align="left">
+<img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(1).png" alt="Campus 1" width="400" />
 
-# &#x20; <img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(3).png" alt="Village 1" width="400" />
+<img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(2).png" alt="Campus 2" width="400" />
 
-# &#x20; <img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(4).png" alt="Village 2" width="400" />
 
-</p>
+
+<small>\*\*🏡 Village Scene \*(Developed by Md. Jakaria Naim)\*\*\*</small>
+
+<img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(3).png" alt="Village 1" width="400" />
+
+<img src="https://github.com/shuvokaisar52/cg\_project/blob/a723aee9e4f933ec16c78a6072380835cfc687ef/assets/image%20(4).png" alt="Village 2" width="400" />
 
